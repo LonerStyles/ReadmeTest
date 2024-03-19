@@ -8,8 +8,10 @@ As I continue my journey in Full Stack development, I am always on the lookout f
 
 commands used are:
 
-"git add README.md"
+"git add README.md"  // add file to work space
 
-"git commit -m “title”"
+"git status" // look at current commit status (you can look if a file is on commitment inbox)
 
-"git log --oneline".
+"git commit -m “title”" // commit changes
+
+"git log --oneline". // see a log of recent commiments
