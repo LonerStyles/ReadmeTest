@@ -13,6 +13,10 @@ As I continue my journey in Full Stack development, I am always on the lookout f
 - JS
 - C++
 
+##Launguages
+-English
+-Spanish
+
 commands used are:
 
 "git add README.md"  // add file to work space
