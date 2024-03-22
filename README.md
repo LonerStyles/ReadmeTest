@@ -15,7 +15,7 @@ As I continue my journey in Full Stack development, I am always on the lookout f
 
 commands used are:
 
-"git add README.md"  // add file to work space
+"git add README.md"  // add file to commit inbox
 
 "git status" // look at current commit status (you can look if a file is on commitment inbox)
 
@@ -32,3 +32,9 @@ Branches:
 "git branch "title""//Create a branch and not move
 
 "git checkout "title""//Move to a branch
+
+"git switch "title""//Move to a branch
+
+"git add ." //Add all files to commit inbox
+
+"git branch -d "title""//Delete a branch
