@@ -6,6 +6,12 @@ Hello! I'm a passionate Full Stack Developer with a keen focus on Java and Angul
 ## Contact me
 As I continue my journey in Full Stack development, I am always on the lookout for collaborative projects and opportunities where I can contribute my skills and grow both personally and professionally. Let's connect and explore how we can create something amazing together!
 
+## Skills
+
+- Coaching
+- Coding
+- Skill
+
 ## Technologies
 
 - HTML
@@ -13,7 +19,8 @@ As I continue my journey in Full Stack development, I am always on the lookout f
 - JS
 - C++
 
-commands used are:
+
+Commands used are:
 
 "git add README.md"  // add file to commit inbox
 
@@ -33,8 +40,3 @@ Branches:
 
 "git checkout "title""//Move to a branch
 
-"git switch "title""//Move to a branch
-
-"git add ." //Add all files to commit inbox
-
-"git branch -d "title""//Delete a branch
