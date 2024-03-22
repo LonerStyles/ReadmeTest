@@ -9,8 +9,24 @@ As I continue my journey in Full Stack development, I am always on the lookout f
 ## Hobbies
 
 - Guitar
+- Games
+- Drawing
 
-commands used are:
+## Skills
+
+- Coaching
+- Coding
+- Skill
+
+## Technologies
+
+- HTML
+- CSS
+- JS
+- C++
+
+
+Commands used are:
 
 "git add README.md"  // add file to work space
 
@@ -19,3 +35,14 @@ commands used are:
 "git commit -m “title”" // commit changes
 
 "git log --oneline". // see a log of recent commiments
+
+Branches:
+
+"git branch" //List all branches and look where you are
+
+"git checkout -b "title"" //Clone to a new branch and move to it
+
+"git branch "title""//Create a branch and not move
+
+"git checkout "title""//Move to a branch
+
