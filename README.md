@@ -39,4 +39,3 @@ Branches:
 "git branch "title""//Create a branch and not move
 
 "git checkout "title""//Move to a branch
-
