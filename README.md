@@ -55,6 +55,6 @@ Branches:
 
 "git switch "title""//Move to a branch
 
-"git add ." //Add all files to commit inbox
+"git add ." //Add all files to commit stagging area
 
 "git branch -d "title""//Delete a branch
